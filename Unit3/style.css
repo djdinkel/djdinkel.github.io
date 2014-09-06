@@ -1,0 +1,28 @@
+#header {
+	background-image: url("Assets/stripes.png");
+	background-repeat: repeat-x;	
+}
+body {
+	background-image: url("Assets/background.jpg");
+	background-size: cover;		
+	color: white;
+	text-align: left;
+}
+hr {
+	width: 50px;
+	color: red;
+	margin-left: 80px;	
+}
+#text {
+	font-size: 22px;
+	font-family: sans-serif;
+	font-weight: bold;
+	margin-left: 80px;
+}
+#apple {
+	margin-left: 80px;	
+}
+#logo {
+	margin-left: 80px;
+	margin-top: 250px;		
+}
