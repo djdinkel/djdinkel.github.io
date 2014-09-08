@@ -1,0 +1,53 @@
+#logo {
+	width: 360px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 25px;
+}
+#bodyctr {
+	background-color: #005434;
+	margin-top: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: auto;	
+}
+ul.horizontal li{
+	display: block;
+	float: left;
+	padding: 0 10px;
+}
+#menu {
+	width: 520px;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 20px;
+	font-family: sans-serif;
+	font-weight: bold;	
+}
+#centeredimg {
+	width: 370px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+}
+#footer {
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+a:link {
+COLOR: #FFFFFF;
+}
+a:visited {
+COLOR: #FFFFFF;
+}
+a:hover {
+COLOR: #CC6600;
+}
+a:active {
+COLOR: #FFFFFF;
+}
+
