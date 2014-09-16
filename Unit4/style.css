@@ -1,0 +1,61 @@
+#menu {
+	font-size: 40px;
+	font-family: Hammersmith One;
+	font-weight: bold;
+	top: 40px;
+	left: 350px;	
+	position: absolute;
+	z-index: 0;
+	width: 1500px;	
+}
+ul.horizontal li{
+	display: block;
+	float: left;
+	padding: 0 55px;
+}
+body {
+	background-image: url("assets/saloonBW.jpg");
+	background-size: cover;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 275px;	
+}
+#logo { 
+		top: 275px;
+		left: 830px;		
+		width: 300px;
+		position: absolute;
+		margin-left: auto;
+		margin-right: auto;		
+}
+h1 {
+	font-family: 'Fontdiner Swanky', cursive;
+	top: 375px;
+	left: 715px;
+	position: absolute;
+	font-size: 120px;
+	color: white;
+	text-align: center;		
+}
+#footer {
+	font-family: Hammersmith One;
+	font-size: 40px;
+	color: white;
+	left: 300px;	
+	bottom: 40px;
+	position: absolute;
+}
+p {
+}
+a:link {
+COLOR: #FFFFFF;
+}
+a:visited {
+COLOR: #FFFFFF;
+}
+a:hover {
+COLOR: #FF0000;
+}
+a:active {
+COLOR: #FFFFFF;
+}
