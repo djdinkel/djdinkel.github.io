@@ -1,0 +1,93 @@
+body {
+	background-image: url("images/skullsgreen1.png");
+}
+#container {
+	margin: 0 auto;
+	width: 970px;
+	background-color: #005434;
+}
+.header img{
+	float: left;
+	padding-left: 5px;
+	padding-top: 5px;
+}
+.header h1 {
+	color: white;
+	font-family: Averia Libre;
+	font-size: 60px;
+	position: relative;
+  	top: 40px;
+  	left: 0px;
+}
+#menu {
+	border-left: 10px solid #005434;
+	border-right: 10px solid #005434;
+}
+nav {
+	background: #267F5D;
+}
+nav a {
+	display: block;
+	float: left;
+	padding: 10px 27px;
+	color: #ffffff;	
+	text-decoration: none;
+	font-family: Hind Medium;
+	font-size: 20px;
+	border-right: 1px solid #005434;
+}
+nav a:hover { 
+  background-color: #00CC7E; 
+}
+.column {
+	float: left;
+	width: 230px;
+  	height: 400px;
+	padding: 0px;
+	margin: 0;
+}
+#column1 {
+  background-image: url("images/angel.jpg");
+  border-right: 10px solid #005434;
+  border-top: 10px solid #005434;
+  border-left: 10px solid #005434;
+}
+
+#column2 {
+  background-image: url("images/paint.jpg");
+  border-right: 10px solid #005434;
+  border-top: 10px solid #005434;
+}
+
+#column3 {
+  background-image: url("images/box.jpg");
+  border-right: 10px solid #005434;
+  border-top: 10px solid #005434;
+}
+
+#column4 {
+	 background-image: url("images/japan.jpg");
+  	 border-right: 10px solid #005434;
+  	 border-top: 10px solid #005434;
+ }
+footer {
+	background-color: #267F5D;
+	text-align: center;
+	font-family: Hind Medium;
+	font-size: 20px;
+	padding: 10px;
+	border-top: 10px solid #005434;
+	border-left: 10px solid #005434;
+	border-right: 10px solid #005434;
+	border-bottom: 10px solid #005434;
+	color: white;
+}
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
