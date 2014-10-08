@@ -26,7 +26,7 @@ body {
 	border-right: 10px solid #005434;
 }
 nav {
-	background: #267F5D;
+	background-image: url("images/skullsgreen1.png");
 }
 nav a {
 	display: block;
@@ -73,7 +73,7 @@ nav a:hover {
   	 border-top: 10px solid #005434;
  }
 footer {
-	background-color: #267F5D;
+	background-image: url("images/skullsgreen1.png");
 	text-align: center;
 	font-family: Hind Medium;
 	font-size: 20px;
